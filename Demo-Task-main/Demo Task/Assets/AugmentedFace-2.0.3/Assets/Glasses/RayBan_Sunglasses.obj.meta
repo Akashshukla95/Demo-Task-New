@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 094e319028f366741b9928c7cfc83184
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Nose_Pads_RayBan_Sunglasses
+    100002: //RootNode
+    100004: RayBan_Sunglasses_Frame
+    100006: RayBan_Sunglasses_Lenses
+    100008: RayBan_Sunglasses_Temples
+    400000: Nose_Pads_RayBan_Sunglasses
+    400002: //RootNode
+    400004: RayBan_Sunglasses_Frame
+    400006: RayBan_Sunglasses_Lenses
+    400008: RayBan_Sunglasses_Temples
+    2300000: Nose_Pads_RayBan_Sunglasses
+    2300002: RayBan_Sunglasses_Frame
+    2300004: RayBan_Sunglasses_Lenses
+    2300006: RayBan_Sunglasses_Temples
+    3300000: Nose_Pads_RayBan_Sunglasses
+    3300002: RayBan_Sunglasses_Frame
+    3300004: RayBan_Sunglasses_Lenses
+    3300006: RayBan_Sunglasses_Temples
+    4300000: Nose_Pads_RayBan_Sunglasses
+    4300002: RayBan_Sunglasses_Frame
+    4300004: RayBan_Sunglasses_Lenses
+    4300006: RayBan_Sunglasses_Temples
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3SG
+    second: {fileID: 2100000, guid: f0ca7dbe4465dae418476b2206ac8165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn4SG
+    second: {fileID: 2100000, guid: 927ac78cc2999294fbcf3ce6b19e45ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5SG
+    second: {fileID: 2100000, guid: 5943e96dea9366b47a0727c7b2b4d626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn6SG
+    second: {fileID: 2100000, guid: 163bdc0d1deca5a45a0c405cb9198857, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
